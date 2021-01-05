@@ -8,7 +8,7 @@
     --font-semi-bold: 600;
     --font-bold: 700;
 
-/*   --first-color: #64DFDF;
+/*  --first-color: #64DFDF;
     --first-color-dark: #4EA8DE;
     --first-color-darken: #5E60CE;
     --text-color: #5E60CE;
@@ -488,6 +488,7 @@ img {
 
 .services__container{
     row-gap: 2rem;
+    margin-bottom: var(--mb-5);
 }
 
 .services__content{
